@@ -12,27 +12,27 @@ Calculates the dot product between each document embedding and a question_embedd
 The Create our RAG using Open AI LLM + prompt
 
 
-## 🔧 Features
+## Features
 
 - Load documents (CSV)
 - Using Pass through prompt
 - Use OpenAI/GPT to generate answers
 - Built on Google Colab
 
-## 📁 Files
+## Files
 
 - `Simple RAG.ipynb`: Main notebook
 - `documents/`: Excel file with personal information
 - `requirements.txt`: Python dependencies
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repo
 2. Install dependencies  
    `pip install -r requirements.txt`
 3. Open the notebook in Google Colab
 
-## 🔒 Environment Variables
+## Environment Variables
 
 Set your API keys on billed Open AI account:
 

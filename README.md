@@ -37,4 +37,6 @@ The Create our RAG using Open AI LLM + prompt
 Set your API keys on billed Open AI account:
 
 OPENAI_API_KEY=your-key
+https://platform.openai.com/api-keys
+
 

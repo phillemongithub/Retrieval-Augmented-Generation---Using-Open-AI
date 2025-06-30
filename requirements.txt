@@ -1,0 +1,3 @@
+!pip install python-dotenv
+
+get API key from https://platform.openai.com/api-keys
